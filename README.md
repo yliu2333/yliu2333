@@ -48,12 +48,6 @@
 - 📖 Web novels + Bilibili, probably right now
 - 🌶️ Will travel far for great food and view
 
-### 📊 GitHub Stats
-
-![Yuliang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yliu2333&show_icons=true&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yliu2333&layout=compact&hide_border=true)
-
 ---
 
 ### 📫 Connect
