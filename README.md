@@ -36,9 +36,8 @@
 | 🩺 **ai-doctor** | Fully local AI home-doctor — Spring Boot + Ollama + RAG + vision. No cloud, no API keys. |
 | 📺 **video-platform** | Bilibili-style site — Spring Cloud microservices, danmu over WebSocket, chunked upload, ES search. |
 | 🎓 **[degree-planner](https://github.com/yliu2333/degree-planner)** | Semester scheduler — prerequisite DAG + topological sort, framework-free engine. [Live demo](https://degree-planner-front.onrender.com/). |
-| 🏆 **[final season defense](https://github.com/yliu2333/final-season-defense)** | 1st Place out of 10+ teams in CSC214 Mobile App Development — SpriteKit arcade defense game. Coordinated team code tasks, shaped UI/UX, proposed the core idea, and built the original playable demo. |
+| 🎮 **[final season defense](https://github.com/yliu2333/final-season-defense)** | 1st Place out of 10+ teams in class —  A little SpriteKit arcade defense game, have a breath in reading week. Coordinated team code tasks, shaped UI/UX, proposed the core idea, and built the original playable demo. |
 | 🧠 **ML zoo** | CIFAR-10 classifier, *Lightingformer* (Transformer + LSTM), GMM/EM & HMM from scratch. |
-| 🎮 **Drops** | A little SpriteKit game, because sometimes you just want things to fall. |
 
 <sub>Some repos are private — happy to walk through the code or architecture on request.</sub>
 
