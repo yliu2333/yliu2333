@@ -13,6 +13,7 @@
 - 🏗️ Shipping full-stack **Spring Boot** projects (and pretending the microservices behave)
 - 🎓 Prepping for **Columbia MSAI** this fall
 - 🐛 Chronically curious: 12 tabs open, 3 rabbit holes deep, somehow still merges to `main`
+- 📍 New York City
 
 ### 🧰 Stack
 
@@ -34,6 +35,7 @@
 |---|---|
 | 🩺 **ai-doctor** | Fully local AI home-doctor — Spring Boot + Ollama + RAG + vision. No cloud, no API keys. |
 | 📺 **video-platform** | Bilibili-style site — Spring Cloud microservices, danmu over WebSocket, chunked upload, ES search. |
+| 🎓 **[degree-planner](https://github.com/yliu2333/degree-planner)** | Semester scheduler — prerequisite DAG + topological sort, framework-free engine. [Live demo](https://degree-planner-front.onrender.com/). |
 | 🧠 **ML zoo** | CIFAR-10 classifier, *Lightingformer* (Transformer + LSTM), GMM/EM & HMM from scratch. |
 | 🎮 **Drops** | A little SpriteKit game, because sometimes you just want things to fall. |
 
@@ -45,6 +47,20 @@
 - 🧶 Knitting — same joy as clean code: loops that don't drop
 - 📖 Web novels + Bilibili, probably right now
 - 🌶️ Will travel far for great food and view
+
+### 📊 GitHub Stats
+
+![Yuliang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yliu2333&show_icons=true&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yliu2333&layout=compact&hide_border=true)
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liu-yuliang/)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yliu11147314@gmail.com)
 
 ---
 
