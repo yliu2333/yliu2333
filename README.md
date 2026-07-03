@@ -32,10 +32,12 @@
 
 | Project | What it is |
 |---|---|
-| 🩺 **[ai-doctor]** | Fully local AI home-doctor — Spring Boot + Ollama + RAG + vision. No cloud, no API keys. |
-| 📺 **[video-platform]** | Bilibili clone — Spring Cloud microservices, danmu over WebSocket, chunked upload, ES search. |
+| 🩺 **ai-doctor** | Fully local AI home-doctor — Spring Boot + Ollama + RAG + vision. No cloud, no API keys. |
+| 📺 **video-platform** | Bilibili-style site — Spring Cloud microservices, danmu over WebSocket, chunked upload, ES search. |
 | 🧠 **ML zoo** | CIFAR-10 classifier, *Lightingformer* (Transformer + LSTM), GMM/EM & HMM from scratch. |
 | 🎮 **Drops** | A little SpriteKit game, because sometimes you just want things to fall. |
+
+<sub>Some repos are private — happy to walk through the code or architecture on request.</sub>
 
 ### 🐈 Off the clock
 
@@ -45,10 +47,5 @@
 - 🌶️ Will travel far for great food and view
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yliu2333&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yliu2333&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 <p align="center"><i>“Rest is just a background thread — it still needs to run.”</i></p>
