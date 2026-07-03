@@ -33,6 +33,7 @@
 
 | Project | What it is |
 |---|---|
+| 🏆 **[Final Season Defense](https://github.com/yliu2333/final-season-defense)** | 1st Place out of 10+ teams in CSC214 Mobile App Development — SpriteKit arcade defense game. Coordinated team code tasks, shaped UI/UX, proposed the core idea, and built the original playable demo. |
 | 🩺 **ai-doctor** | Fully local AI home-doctor — Spring Boot + Ollama + RAG + vision. No cloud, no API keys. |
 | 📺 **video-platform** | Bilibili-style site — Spring Cloud microservices, danmu over WebSocket, chunked upload, ES search. |
 | 🎓 **[degree-planner](https://github.com/yliu2333/degree-planner)** | Semester scheduler — prerequisite DAG + topological sort, framework-free engine. [Live demo](https://degree-planner-front.onrender.com/). |
